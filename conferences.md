@@ -4,6 +4,47 @@
 
 A list of virtual conferences to learn about cool economics things without having to jump into a seething mass of plague vectors.
 
+### Warsaw International Economic Meeting 2021 (online)
+
+The University of Warsaw, Faculty of Economic Sciences invites all economists to participate in the 16th annual conference - Warsaw International Economic Meeting 2021. Considering still uncertain COVID-19 pandemic situation, WIEM Conference in 2021 will be organized as an online event. The Conference is scheduled for **24-25 June 2021**.
+
+All economists are invited to submit their unpublished analytical work or new research in all areas of economics with special focus on macroeconomics, international trade, labour economics, education, microeconomics, industrial organization, finance and econometrics. The main objective of this meeting is to stimulate cooperation of researchers from all over the world. Young economists, such as graduate students or post-docs are encouraged to apply.
+
+Our keynote speaker this year is: **Prof. Wojciech Charemza (University of Leicester),** who will give his lecture on the first day of the Conference (24th June).
+
+**Submissions and Registration:** Please use this [(link)](http://coin.wne.uw.edu.pl/wiem/regform.html) to submit/register.
+
+**Procedures:** Conference language is English. Participants should submit extended abstracts or full papers using submission form at [(http://wiem-conference.pl)](http://wiem-conference.pl). Submissions must describe: (1) objectives, (2) methodology and (3) results of the research. Considering the still uncertain COVID-19 pandemic situation we decided that all conference sessions will be organized as online live presentations. Participation in WIEM 2021 conference will involve presenting your research online using video conference software.
+
+**Finances:** For this edition the conference fee is reduced to 50 EUR (paid upon notification of acceptance).
+
+**Prize:** The Best Paper Prize for Young Economists in the amount of 500 EUR will be awarded for an outstanding paper. Please check eligibility on the website.
+
+**Important dates:**
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <th scope="row">Submission for extended abstracts:</th>
+    <td><b>3 May 2021</b></td>
+  </tr>
+  <tr>
+    <th scope="row">Authors are notified:</th>
+    <td>5 May 2021</td>
+  </tr>
+  <tr>
+    <th scope="row">Conference fee payment deadline:</th>
+    <td>21 May 2021</td>
+  </tr>
+  <tr>
+    <th scope="row">Final papers due:</th>
+    <td>6 June 2021</td>
+  </tr>
+  <tr>
+    <th scope="row">Conference is scheduled for:</th>
+    <td>24-25 June 2021</td>
+  </tr>
+</table>
+
+
 ### Research Transparency and Reproducibility Training (RT2) (online training)
 
 The Berkeley Initiative for Transparency in the Social Sciences [(BITSS)](https://www.bitss.org/) will hold its next Research Transparency and Reproducibility Training (RT2) on September 21-25, with sessions taking place 8–11:30 am PT (GMT-7) daily.
